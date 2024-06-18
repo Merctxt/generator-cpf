@@ -65,7 +65,7 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 ## Contato
 
-Seu Nome - [Seu Email](mailto:seu-email@example.com)
+Seu Nome - [Seu Email](merctxt2@proton.me)
 
 Link do Projeto: [https://github.com/seu-usuario/gerador-cpf](https://github.com/seu-usuario/gerador-cpf)
 
