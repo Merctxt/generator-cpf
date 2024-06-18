@@ -67,7 +67,7 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 Email - merctxt2@proton.me
 
-Link do Projeto: [https://github.com/seu-usuario/gerador-cpf](https://github.com/seu-usuario/gerador-cpf)
+Link do Projeto: [https://github.com/seu-usuario/gerador-cpf](https://github.com/Merctxt/gerador-cpf)
 
 ---
 
