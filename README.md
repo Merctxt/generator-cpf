@@ -21,12 +21,12 @@ Para começar, você precisará ter o Python instalado em seu sistema. Você pod
 
 1. Clone este repositório em sua máquina local usando:
     ```sh
-    git clone https://github.com/seu-usuario/gerador-cpf.git
+    git clone https://github.com/Merctxt/generator-cpf.git
     ```
 
 2. Navegue até o diretório do projeto:
     ```sh
-    cd gerador-cpf
+    cd generator-cpf
     ```
 
 ## Como Usar
@@ -35,14 +35,14 @@ Siga estas instruções para gerar CPFs:
 
 1. Abra o Prompt de Comando (CMD) ou Terminal.
 
-2. Navegue até o diretório onde o arquivo `gerador_cpf.py` está localizado:
+2. Navegue até o diretório onde o arquivo `generator_cpf.py` está localizado:
     ```sh
     cd "C:\Users\seu-usuario\caminho\para\a\pasta\do\projeto"
     ```
 
 3. Execute o programa:
     ```sh
-    python gerador_cpf.py
+    python generator_cpf.py
     ```
 
 ### Exemplo de Uso
