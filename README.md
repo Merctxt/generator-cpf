@@ -11,7 +11,7 @@ Bem-vindo ao Gerador de CPF! Este projeto permite que você gere números de CPF
 - [Como Usar](#como-usar)
 - [Contribuindo](#contribuindo)
 - [Licença](#licença)
-- [Contato](#contato)
+
 
 ## Instalação
 
@@ -63,11 +63,7 @@ Contribuições são bem-vindas! Se você tem sugestões para melhorias, sinta-s
 
 Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
-## Contato
 
-Email - merctxt2@proton.me
-
-Link do Projeto: [https://github.com/Merctxt/generator-cpf](https://github.com/Merctxt/generator-cpf)
 
 ---
 
